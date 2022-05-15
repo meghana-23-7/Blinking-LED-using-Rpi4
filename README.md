@@ -24,7 +24,7 @@ To write python code to control an LED with Raspberry pi, first import RPI.GPIO 
 To avoid all the warnings, set it to false, set pin 14 as output. Once code enters the while loop, first LED is set to high, it prints LED id ON on the terminal, after delay of 1 second, it is set to low, again delay of 1 second. This while loop continues till we stop it with a command or disconnect the circuit.
 
 ## Code
-
+https://github.com/meghana-23-7/Blinking-LED-using-Rpi4/blob/main/blinkLed.py
 
 ##  Problems faced
 
